@@ -71,19 +71,6 @@ I'm a passionate .NET Backend Engineer with experience since **April 2023**, ded
 
 </div>
 
----
-
-## 📈 Current Projects & Contributions
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ecom-LTD&repo=anis.gateways-cards-store-consumers&theme=radical&hide_border=true)](https://github.com/Ecom-LTD/anis.gateways-cards-store-consumers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ecom-LTD&repo=Anis.TheCircle.Command&theme=radical&hide_border=true)](https://github.com/Ecom-LTD/Anis.TheCircle.Command)
-
-</div>
-
----
-
 ## 📚 Learning Journey
 
 ```mermaid
