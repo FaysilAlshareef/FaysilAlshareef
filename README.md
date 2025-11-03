@@ -159,7 +159,7 @@ graph LR
     B --> H[Cloud Architecture]
     
     D --> I[GitHub Copilot Mastery]
-    E --> J[AI Agents & MCP]
+    E --> J[AI Agents & Model Context Protocol]
     E --> K[LLM Integration]
 ```
 
@@ -177,7 +177,7 @@ graph LR
 </div>
 
 ### 📖 Continuous Learning Areas
-- 🤖 **AI Agents Architecture** & Model Context Protocol (MCP) Servers & Clients
+- 🤖 **AI Agents Architecture** & Model Context Protocol (MCP) Server & Client Development
 - 🔄 **Event Sourcing & CQRS** Implementation
 - ☁️ **Cloud-Native** Application Development
 - 🐳 **Container Orchestration** with Kubernetes
@@ -248,7 +248,7 @@ I increased my team's development velocity by **30%+** using GitHub Copilot and 
 I conduct regular training sessions on:
 - 🏗️ Microservices & Event Sourcing patterns
 - 🤖 AI-assisted development with GitHub Copilot
-- 🚀 Modern .NET practices and best practices
+- 🚀 Modern .NET development best practices
 - 💡 Clean Architecture & Domain-Driven Design
 
 </div>
