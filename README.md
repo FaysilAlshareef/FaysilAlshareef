@@ -59,7 +59,7 @@ Experienced Software Engineer with **2+ years** of expertise in developing enter
 - 🎨 Build interactive management dashboards using **Blazor WebAssembly**
 - 🤖 Leverage **GitHub Copilot** extensively to accelerate development and improve code quality
 - 🏦 Build systems for **financial card management**, external money transfers, competitions, and promotional draws
-- 👨‍💼 Lead technical initiatives and coordinate with Mid support team for architectural decisions
+- 👨‍💼 Lead technical initiatives and coordinate with Seniors support team for architectural decisions
 - 📚 Conduct technical training sessions on microservices patterns, event sourcing, and AI-assisted development
 - 🔄 Implement **CI/CD pipelines** using GitHub Actions for automated deployment to Kubernetes clusters
 
