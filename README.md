@@ -2,11 +2,14 @@
 
 # 👋 Hi there, I'm Faysil Alshareef!
 
-### 🚀 .NET Backend Engineer | DevOps Enthusiast | Cloud Explorer
+### 🚀 Senior Software Engineer | Microservices Architect | AI-Enhanced Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysil-alshareef-a23978263/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysilalshareef@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaysilAlshareef)
 [![Profile Views](https://komarev.com/ghpvc/?username=FaysilAlshareef&color=blue&style=for-the-badge)](https://github.com/FaysilAlshareef)
+
+📍 **Tripoli, Libya** | 📞 **+218915229448**
 
 </div>
 
@@ -16,7 +19,16 @@
 
 > *"Continuous learning and adaptation are the keys to success in the ever-evolving world of technology."*
 
-I'm a passionate .NET Backend Engineer with experience since **April 2023**, dedicated to building robust and scalable applications. Currently expanding my expertise in DevOps practices and cloud technologies while working on enterprise-level solutions at **Ecom-LTD**.
+Experienced Software Engineer with **2+ years** of expertise in developing enterprise-level microservices applications using .NET and modern cloud technologies. Specialized in building scalable systems for **sales, purchasing, and financial card management**. Currently serving as a **Senior Software Engineer at ANIS** since July 2023, where I lead technical initiatives, mentor team members, and deliver high-quality solutions using microservices architecture, event sourcing, and distributed systems.
+
+### 🌟 Key Highlights
+
+- 🏢 **Senior Software Engineer** at ANIS (July 2023 - Present)
+- 🚀 Expert in **Microservices Architecture** & **Event Sourcing**
+- 🤖 **GitHub Copilot Expert User** - AI-Assisted Development Pioneer
+- 📈 Increased development velocity by **30%+** through AI-powered coding practices
+- 👥 Technical trainer and mentor for team members
+- 💼 Open for **part-time opportunities**
 
 <div align="center">
 
@@ -37,12 +49,41 @@ I'm a passionate .NET Backend Engineer with experience since **April 2023**, ded
 
 ## 🚀 Professional Experience
 
-**Backend Engineer (.NET)** | *April 2023 - Present*
-- 🔧 Developing and maintaining backend applications using .NET framework
-- 🌐 Building RESTful APIs and web services for enterprise solutions
-- 💾 Working with databases and implementing efficient data access patterns
-- 🤝 Collaborating with cross-functional teams to deliver high-quality software solutions
-- 🏢 Contributing to major projects at **Ecom-LTD** including gateway systems and merchant pricing solutions
+### **Senior Software Engineer** | ANIS | *July 2023 - Present*
+
+<div align="left">
+
+#### 🎯 Core Responsibilities
+- 🏗️ Develop and maintain **microservices-based applications** for the ANIS-Card system
+- 💳 Handle **sales and purchases catalog management**, card systems, and external transfers
+- 🎨 Build interactive management dashboards using **Blazor WebAssembly**
+- 🤖 Leverage **GitHub Copilot** extensively to accelerate development and improve code quality
+- 🏦 Build systems for **financial card management**, external money transfers, competitions, and promotional draws
+- 👨‍💼 Lead technical initiatives and coordinate with senior support team for architectural decisions
+- 📚 Conduct technical training sessions on microservices patterns, event sourcing, and AI-assisted development
+- 🔄 Implement **CI/CD pipelines** using GitHub Actions for automated deployment to Kubernetes clusters
+
+#### 🏆 Key Achievements
+- ✅ Successfully delivered multiple enterprise systems for **card management and financial transactions**
+- 📊 Developed **real-time management dashboards** using Blazor WebAssembly
+- 🚀 Increased development velocity by **30%+** through expert use of GitHub Copilot
+- ⚡ Improved system scalability by implementing **event-driven microservices architecture**
+- 👥 Enhanced team productivity through **technical training and mentorship programs**
+- 🎯 Contributed to architectural decisions improving performance and maintainability
+
+**Tech Stack:** .NET 8, ASP.NET Core, Blazor WebAssembly, C#, gRPC, Microservices, Event Sourcing, SQL Server, Cosmos DB, Kubernetes, GitHub Copilot, GitHub Actions
+
+</div>
+
+### **Software Engineer** | Growth Tech | *April 2023 - July 2023*
+
+<div align="left">
+
+- 🔧 Developed new processes and applications using **C#** and **.NET Framework**
+- 🔄 Created automations using various system APIs
+- 🧪 Performed code modifications, unit testing, and defect fixes
+
+</div>
 
 ---
 
@@ -50,18 +91,35 @@ I'm a passionate .NET Backend Engineer with experience since **April 2023**, ded
 
 <div align="center">
 
-### Backend Development
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+### Backend Development & Architecture
+![.NET 8](https://img.shields.io/badge/.NET%208-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white)
 
-### DevOps & Cloud (Learning)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Database Technologies
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Communication Protocols
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Message Queue](https://img.shields.io/badge/Message%20Queue-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI & Productivity Tools
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![AI Development](https://img.shields.io/badge/AI%20Assisted%20Dev-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -71,25 +129,60 @@ I'm a passionate .NET Backend Engineer with experience since **April 2023**, ded
 
 </div>
 
-## 📚 Learning Journey
+---
+
+## 🎓 Expertise & Architecture Patterns
+
+<div align="center">
+
+| Category | Technologies |
+|:--------:|:------------|
+| **🏗️ Architecture** | Microservices Architecture, Event Sourcing, CQRS, Gateway Pattern, Domain-Driven Design (DDD) |
+| **🤖 AI Development** | GitHub Copilot Expert User, AI-Assisted Development, Code Generation, AI-Powered Testing |
+| **☁️ Cloud & DevOps** | Kubernetes (K8s), Docker, CI/CD Pipelines, Container Orchestration, GitHub Actions |
+| **👨‍💼 Leadership** | Team Coordination, Technical Training, Mentoring, Code Reviews |
+| **🌐 Communication** | English (Professional), Arabic (Native) |
+
+</div>
+
+## 📚 Learning Journey & Current Focus
 
 ```mermaid
 graph LR
-    A[.NET Backend] --> B[DevOps Practices]
-    B --> C[Cloud Technologies]
-    C --> D[Full-Stack Mastery]
+    A[.NET Backend] --> B[Microservices Architecture]
+    B --> C[Event Sourcing & CQRS]
+    C --> D[AI-Enhanced Development]
+    D --> E[Emerging AI Technologies]
     
-    B --> E[Docker & K8s]
-    B --> F[CI/CD Pipelines]
-    B --> G[Infrastructure as Code]
+    B --> F[Docker & K8s]
+    B --> G[CI/CD Pipelines]
+    B --> H[Cloud Architecture]
+    
+    D --> I[GitHub Copilot Mastery]
+    E --> J[AI Agents & Model Context Protocol]
+    E --> K[LLM Integration]
 ```
 
-**Currently Focusing On:**
-- 🐳 Container orchestration with Docker & Kubernetes
-- 🔧 Infrastructure automation with Ansible
-- ☁️ Cloud-native application development
-- 🔄 CI/CD pipeline optimization
-- 📊 Monitoring and observability
+### 🎯 Currently Exploring
+
+<div align="center">
+
+| 🤖 AI & Emerging Tech | ☁️ DevOps & Cloud | 🏗️ Architecture |
+|:---------------------|:-----------------|:---------------|
+| AI Agents | Docker & Kubernetes | Microservices Patterns |
+| Model Context Protocol (MCP) | CI/CD Optimization | Distributed Systems |
+| Large Language Models | Ansible Automation | Event-Driven Design |
+| AI-Assisted Testing | Cloud-Native Apps | Scalability Patterns |
+
+</div>
+
+### 📖 Continuous Learning Areas
+- 🤖 **AI Agents Architecture** & Model Context Protocol (MCP) Server & Client Development
+- 🔄 **Event Sourcing & CQRS** Implementation
+- ☁️ **Cloud-Native** Application Development
+- 🐳 **Container Orchestration** with Kubernetes
+- 📊 **Monitoring and Observability**
+- 🔧 **Infrastructure as Code** with Ansible
 
 ---
 
@@ -99,9 +192,31 @@ graph LR
 
 | Short Term (6 months) | Medium Term (1 year) | Long Term (2+ years) |
 |:----------------------:|:---------------------:|:--------------------:|
-| 🐳 Master Docker & K8s | ☁️ Cloud Certification | 🏗️ Solution Architecture |
-| 🔧 Ansible Automation | 🔄 Advanced DevOps | 🌟 Open Source Leadership |
-| 📈 Performance Optimization | 🏢 Team Leadership | 🚀 Innovation & R&D |
+| 🤖 Master AI Agents & MCP | ☁️ Cloud Architecture Expert | 🏗️ Solution Architect |
+| 🐳 Advanced K8s Patterns | 🔄 DevOps Leadership | 🌟 Open Source Leadership |
+| 📈 System Optimization | 🎯 Distributed Systems Mastery | 🚀 Innovation & R&D |
+| 🧠 LLM Integration | 👥 Team Lead Position | 🌍 International Impact |
+
+</div>
+
+---
+
+## 💼 Professional Services
+
+<div align="center">
+
+### ✨ Available for Part-Time Opportunities
+
+I'm open to collaborating on exciting projects! My expertise includes:
+
+| Service | Description |
+|:--------|:------------|
+| 🏗️ **Microservices Architecture** | Design and implement scalable microservices systems |
+| 🤖 **AI-Enhanced Development** | Leverage AI tools for rapid development and code quality |
+| 💳 **Financial Systems** | Build secure card management and payment systems |
+| 🎨 **Blazor Development** | Create interactive web applications with Blazor |
+| 📚 **Technical Training** | Conduct training sessions on modern .NET and AI tools |
+| 🔍 **Code Reviews & Consulting** | Provide expert guidance on architecture and best practices |
 
 </div>
 
@@ -115,12 +230,26 @@ I'm always interested in collaborating on exciting projects and learning from fe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysil-alshareef-a23978263/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysilalshareef@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaysilAlshareef)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+218915229448)
 
-**💬 Ask me about:** .NET Development, API Design, Database Architecture, DevOps Practices
+---
 
-**🌱 Currently learning:** Kubernetes, Cloud Architecture, Microservices Patterns
+### 💬 Ask me about
+**Microservices Architecture** • **Event Sourcing** • **AI-Assisted Development** • **Blazor** • **Financial Systems** • **.NET 8**
 
-**⚡ Fun fact:** I believe the best code is the code that doesn't need to be written!
+### 🌱 Currently learning
+**AI Agents** • **Model Context Protocol** • **LLM Integration** • **Cloud Architecture** • **Advanced Kubernetes**
+
+### ⚡ Fun fact
+I increased my team's development velocity by **30%+** using GitHub Copilot and AI-powered development practices!
+
+### 🎓 Teaching & Mentoring
+I conduct regular training sessions on:
+- 🏗️ Microservices & Event Sourcing patterns
+- 🤖 AI-assisted development with GitHub Copilot
+- 🚀 Modern .NET development best practices
+- 💡 Clean Architecture & Domain-Driven Design
 
 </div>
 
