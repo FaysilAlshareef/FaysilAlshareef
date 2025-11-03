@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Faysil Alshareef!
 
-### 🚀 Senior Software Engineer | Microservices Architect | AI-Enhanced Developer
+### 🚀 Mid Software Engineer | Microservices Architect | AI-Enhanced Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysil-alshareef-a23978263/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faysilalshareef@gmail.com)
@@ -19,11 +19,11 @@
 
 > *"Continuous learning and adaptation are the keys to success in the ever-evolving world of technology."*
 
-Experienced Software Engineer with **2+ years** of expertise in developing enterprise-level microservices applications using .NET and modern cloud technologies. Specialized in building scalable systems for **sales, purchasing, and financial card management**. Currently serving as a **Senior Software Engineer at ANIS** since July 2023, where I lead technical initiatives, mentor team members, and deliver high-quality solutions using microservices architecture, event sourcing, and distributed systems.
+Experienced Software Engineer with **2+ years** of expertise in developing enterprise-level microservices applications using .NET and modern cloud technologies. Specialized in building scalable systems for **sales, purchasing, and financial card management**. Currently serving as a **Mid Software Engineer at ANIS** since July 2023, where I lead technical initiatives, mentor team members, and deliver high-quality solutions using microservices architecture, event sourcing, and distributed systems.
 
 ### 🌟 Key Highlights
 
-- 🏢 **Senior Software Engineer** at ANIS (July 2023 - Present)
+- 🏢 **Mid Software Engineer** at ANIS (July 2023 - Present)
 - 🚀 Expert in **Microservices Architecture** & **Event Sourcing**
 - 🤖 **GitHub Copilot Expert User** - AI-Assisted Development Pioneer
 - 📈 Increased development velocity by **30%+** through AI-powered coding practices
@@ -49,7 +49,7 @@ Experienced Software Engineer with **2+ years** of expertise in developing enter
 
 ## 🚀 Professional Experience
 
-### **Senior Software Engineer** | ANIS | *July 2023 - Present*
+### **Mid Software Engineer** | ANIS | *July 2023 - Present*
 
 <div align="left">
 
@@ -59,7 +59,7 @@ Experienced Software Engineer with **2+ years** of expertise in developing enter
 - 🎨 Build interactive management dashboards using **Blazor WebAssembly**
 - 🤖 Leverage **GitHub Copilot** extensively to accelerate development and improve code quality
 - 🏦 Build systems for **financial card management**, external money transfers, competitions, and promotional draws
-- 👨‍💼 Lead technical initiatives and coordinate with senior support team for architectural decisions
+- 👨‍💼 Lead technical initiatives and coordinate with Mid support team for architectural decisions
 - 📚 Conduct technical training sessions on microservices patterns, event sourcing, and AI-assisted development
 - 🔄 Implement **CI/CD pipelines** using GitHub Actions for automated deployment to Kubernetes clusters
 
